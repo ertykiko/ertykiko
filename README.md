@@ -1,7 +1,7 @@
 ### Hi there, I'm Francisco - aka @ertykiko 👋
 
 
-## I'm an engineering student from Portugal, currently finishing my masters degree.
+## I'm a Cloud Data Engineer @Deloitte Portugal
 
 ### Connect with me:
 
